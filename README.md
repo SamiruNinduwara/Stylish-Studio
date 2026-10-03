@@ -29,6 +29,18 @@ A fun little **hobby project** created for anyone who loves turning ordinary tex
 
 Create your style, copy it instantly, and use it anywhere — chats, bios, captions, usernames, social media, and more. ✨
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/names.jpeg" width="220">
+  <img src="screenshots/arts.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="screenshots/kamoji.jpeg" width="220">
+  <img src="screenshots/symbols.jpeg" width="220">
+</p>
+
 ## 🛠️ Project
 
 This is my **second application**, created as a personal hobby project to learn, experiment, and have fun building something creative.
