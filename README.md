@@ -31,7 +31,14 @@ Create your style, copy it instantly, and use it anywhere — chats, bios, capti
 
 ## 📥 Download
 
+<p align="center">
 
+
+
+
+</p>
+
+✨ Stylish Studio v1.0.0 — Download the latest Android APK.
 
 ## 📱 Screenshots
 
