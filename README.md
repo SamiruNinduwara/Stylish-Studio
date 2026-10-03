@@ -33,6 +33,8 @@ Create your style, copy it instantly, and use it anywhere — chats, bios, capti
 
 [![Download APK](https://img.shields.io/badge/Download%20APK-Stylish%20Studio-purple?style=for-the-badge&logo=android)](https://github.com/SamiruNinduwara/Stylish-Studio/releases/download/v.1.0.0/Stylish.Studio.apk)
 
+> Download the latest APK from GitHub Releases and install it on your Android device.
+> 
 ## 📱 Screenshots
 
 <p align="center">
