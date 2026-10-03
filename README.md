@@ -31,14 +31,9 @@ Create your style, copy it instantly, and use it anywhere — chats, bios, capti
 
 ## 📥 Download
 
-<p align="center">
+## 📱 Download
 
-
-
-
-</p>
-
-✨ Stylish Studio v1.0.0 — Download the latest Android APK.
+[![Download Stylish Studio](https://img.shields.io/badge/Download-Stylish%20Studio-7C4DFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SamiruNinduwara/Stylish-Studio/releases/tag/v.1.0.0)
 
 ## 📱 Screenshots
 
