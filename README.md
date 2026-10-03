@@ -29,6 +29,10 @@ A fun little **hobby project** created for anyone who loves turning ordinary tex
 
 Create your style, copy it instantly, and use it anywhere — chats, bios, captions, usernames, social media, and more. ✨
 
+## Download
+
+
+
 ## 📱 Screenshots
 
 <p align="center">
