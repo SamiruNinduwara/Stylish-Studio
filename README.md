@@ -1,4 +1,4 @@
-# ✦ Fancy Text Generator ✦
+# ✨ Fancy Text Generator ✨
 
 <p align="center">
   ✨ <b>Create • Copy • Share</b> ✨
