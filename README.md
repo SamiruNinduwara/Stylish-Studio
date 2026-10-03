@@ -1,13 +1,4 @@
-# ✦ Fancy Text Generator✦
-
-<p align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
-
-</p>
+# ✦ Fancy Text Generator ✦
 
 <p align="center">
   ✨ <b>Create • Copy • Share</b> ✨
