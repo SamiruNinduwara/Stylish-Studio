@@ -62,11 +62,9 @@ Please check the repository license for the exact usage and distribution terms.
 
 <p align="center">
 
-╭─────────────── ⋆⋅☆⋅⋆ ───────────────╮
 **💜 Made with creativity & curiosity**
 **🛠️ Built as a hobby project**
 **✨ Simple • Fun • Creative**
-╰─────────────── ⋆⋅☆⋅⋆ ───────────────╯
 
 <br>
 
