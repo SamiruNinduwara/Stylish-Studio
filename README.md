@@ -31,9 +31,7 @@ Create your style, copy it instantly, and use it anywhere — chats, bios, capti
 
 ## 📥 Download
 
-## 📱 Download
-
-[![Download Stylish Studio](https://img.shields.io/badge/Download-Stylish%20Studio-7C4DFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/SamiruNinduwara/Stylish-Studio/releases/tag/v.1.0.0)
+[![Download APK](https://img.shields.io/badge/Download%20APK-Stylish%20Studio-purple?style=for-the-badge&logo=android)](https://github.com/SamiruNinduwara/Stylish-Studio/releases/download/v.1.0.0/Stylish.Studio.apk)
 
 ## 📱 Screenshots
 
