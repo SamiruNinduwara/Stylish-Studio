@@ -33,24 +33,16 @@ Create your style, copy it instantly, and use it anywhere — chats, bios, capti
 
 This is my **second application**, created as a personal hobby project to learn, experiment, and have fun building something creative.
 
-## 📊 Status
-
-![Status](https://img.shields.io/badge/Status-In%20Development-purple?style=for-the-badge)
-
----
-
-## 💜 Credits
-
 ### 👨‍💻 Developer
 
-**YOUR_NAME**
-
+ # Developed BY Samiru Ninduwara
+ 
 Created with ❤️ as a personal hobby project.
 
-* 💡 Idea & Concept — **YOUR_NAME**
-* 🎨 Design & UI — **YOUR_NAME**
-* 💻 Development — **YOUR_NAME**
-* 🧪 Testing & Improvements — **YOUR_NAME**
+* 💡 Idea & Concept — **Samiru Ninduwara**
+* 🎨 Design & UI — **Samiru Ninduwara**
+* 💻 Development — **Samiru Ninduwara**
+* 🧪 Testing & Improvements — **Samiru Ninduwara**
 
 ### 🙏 Special Thanks
 
