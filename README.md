@@ -32,13 +32,13 @@ Create your style, copy it instantly, and use it anywhere — chats, bios, capti
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/names.jpeg" width="220">
-  <img src="screenshots/arts.jpeg" width="220">
+  <img src="names.jpeg" width="220">
+  <img src="arts.jpeg" width="220">
 </p>
 
 <p align="center">
-  <img src="screenshots/kamoji.jpeg" width="220">
-  <img src="screenshots/symbols.jpeg" width="220">
+  <img src="kamoji.jpeg" width="220">
+  <img src="symbols.jpeg" width="220">
 </p>
 
 ## 🛠️ Project
